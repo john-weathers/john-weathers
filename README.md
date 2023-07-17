@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I started developing software in June 2022. I am currently looking for a full-time position as a software developer/engineer (web development has been my area of focus). For the projects I have done to this point, I have primarily used the MERN stack, however, I am continually working on building my skills. Some of my current learning pipeline includes TypeScript, PostgreSQL, and diving deeper into React frameworks, likely using Remix for my next project.
+
+If you are interested, feel free to check out my portfolio website: johnweathers.dev
+
 <!--
 **john-weathers/john-weathers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
