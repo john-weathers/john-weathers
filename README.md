@@ -4,7 +4,7 @@ I am a highly motivated web developer looking for an entry-level/junior position
 
 Portfolio website: johnweathers.dev\
 Most recent project: fixerapp.johnweathers.dev\
-Quick project primer: github.com/john-weathers/fixerapp-client\
+Quick project primer: github.com/john-weathers/fixerapp-client
 
 <!--
 **john-weathers/john-weathers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
