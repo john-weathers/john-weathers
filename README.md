@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-I am a highly motivated web developer looking for an entry-level/junior position with growth potential. I have experience both in the front end and back end, so I am open to roles focusing on any part of the stack. Please see my websites to view examples of my work:
+I am a highly motivated computer science student looking for a software engineering internship. As a career changer, I believe I can bring a more diverse perspective than the average undergraduate student. Furthermore, I already have a track record of making positive contributions to organizations. I discovered my passion for programming in 2022 and have now been programming for one and a half years. I hope to be a value add as a SWE intern while I continue to build my skill set as a developer. Please see my websites to view examples of my work:
 
 Portfolio website: johnweathers.dev\
-Most recent project: fixerapp.johnweathers.dev\
+Personal project: fixerapp.johnweathers.dev\
 Quick project primer: github.com/john-weathers/fixerapp-client
 
 <!--
